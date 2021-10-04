@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kitap Kayıt", "Kitap Kayıt\Kitap Kayıt.csproj", "{57F7C876-96BA-4FA3-8AF0-881FEEF2EE29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57F7C876-96BA-4FA3-8AF0-881FEEF2EE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F7C876-96BA-4FA3-8AF0-881FEEF2EE29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F7C876-96BA-4FA3-8AF0-881FEEF2EE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F7C876-96BA-4FA3-8AF0-881FEEF2EE29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6563B0CA-81B2-4701-86D9-D39392ACE3C5}
+	EndGlobalSection
+EndGlobal
